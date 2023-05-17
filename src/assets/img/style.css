@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.our__about .our-about-inner {
+    margin-top: 48px;
+}
+
+.our__about .our-about-inner h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #303030;
+}
+
+.our__about .our-about-inner .cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 31px;
+}
+
+.our__about .our-about-inner .cards .card-beznes {
+    width: 343px;
+    height: 344px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.our-about-inner .cards .card-beznes img {
+    width: 159px;
+    height: 128px;
+    margin: 32px 92px 16px 92px;
+}
+
+.our-about-inner .cards .card-beznes h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 32px;
+    color: #303030;
+}
+
+.our-about-inner .cards .card-beznes p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    padding: 16px 0 0 0;
+    width: 219px;
+    height: 102px;
+    color: #404040;
+}
+
+.our__about .our-about-inner .cards .card-startup {
+    width: 344px;
+    height: 344px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 16px;
+}
+
+.our-about-inner .cards .card-startup img {
+    width: 167px;
+    height: 129px;
+    margin: 32px 90px 16px 87px;
+}
+
+.our-about-inner .cards .card-startup h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 32px;
+    color: #303030;
+}
+
+.our-about-inner .cards .card-startup p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    padding: 16px 0 0 0;
+    width: 219px;
+    height: 102px;
+    color: #404040;
+}
+
+.our__about .our-about-inner .cards .card-klent {
+    width: 343px;
+    height: 344px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 16px;
+}
+
+.our-about-inner .cards .card-klent img {
+    width: 161px;
+    height: 128px;
+    margin: 32px 91px 16px 91px;
+}
+
+.our-about-inner .cards .card-klent h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 32px;
+    color: #303030;
+}
+
+.our-about-inner .cards .card-klent p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    padding: 16px 0 0 0;
+    width: 219px;
+    height: 102px;
+    color: #404040;
+}
+
+.services .services__inner {
+    margin-top: 144px;
+}
+
+.services .services__inner h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: #303030;
+}
